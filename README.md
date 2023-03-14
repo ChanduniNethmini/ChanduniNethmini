@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chanduni Nethmini</h1>
-<h3 align="center">Software Engineer Undergraduate and Trainee Software Engineer from Sri Lanka</h3>
+<h3 align="center">Software Engineer Undergraduate and Associate  Software Engineer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanduninethmini&label=Profile%20views&color=0e75b6&style=flat" alt="chanduninethmini" /> </p>
 
